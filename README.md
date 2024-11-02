@@ -1,9 +1,13 @@
 ## **Etapa 1 Java Core**
 
+### Udemy
 - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course)
 - [Java (Джава) для начинающих: с нуля до сертификата Oracle](https://www.udemy.com/course/java-oca-oracle/?couponCode=MTST7102224B2)
 - [JAVA – получи Чёрный Пояс!](https://www.udemy.com/course/java-ot-zaura)
 - [Продвинутая Java](https://www.udemy.com/course/javarussia/)
+
+### Youtube
+- [Java Streams](https://youtu.be/-RHvF37el-A?si=KkLOpT9Y4wDTq0c9)
 
 ## **Etapa 2 Git**
 - [Git: Полный курс для начинающих и не только](https://www.udemy.com/course/git-alishev/)
