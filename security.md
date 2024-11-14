@@ -1,1 +1,1 @@
-
+- [JWT авторизация. Основы JWT - механизма](https://www.youtube.com/watch?v=IB9gsnlRt-4)
