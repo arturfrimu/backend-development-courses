@@ -1,25 +1,19 @@
 ## **Etapa 1 Java Core**
 
-### Udemy
 - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course)
-- [Java (Джава) для начинающих: с нуля до сертификата Oracle](https://www.udemy.com/course/java-oca-oracle/?couponCode=MTST7102224B2)
-- [JAVA – получи Чёрный Пояс!](https://www.udemy.com/course/java-ot-zaura)
-- [Продвинутая Java](https://www.udemy.com/course/javarussia/)
-
-### Youtube
-- [Java Streams](https://youtu.be/-RHvF37el-A?si=KkLOpT9Y4wDTq0c9)
 
 ## **Etapa 2 Git**
-- [Git: Полный курс для начинающих и не только](https://www.udemy.com/course/git-alishev/)
 - [Git youtube](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
 
 ## **Etapa 3 SQL**
-- [SQL для начинающих: с нуля до сертификата Oracle](https://www.udemy.com/course/sql-oracle-certification)
 - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
 
 ## **Etapa 4 Spring**
-- [Spring для начинающих](https://www.udemy.com/course/spring-framework)
+<details>
+<summary>Click</summary>
+Not implemented yet!
+</details>
 
 ## **Etapa 5**
 <details>
@@ -27,7 +21,7 @@
 Not implemented yet!
 </details>
 
-## **Urmareste canale de youtube**
+## **Follow these channels on youtube**
 - [Nerzon](https://www.youtube.com/@NerzonIT/videos)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo/videos)
 - [Merion Academy](https://www.youtube.com/@merionacademy/videos)
