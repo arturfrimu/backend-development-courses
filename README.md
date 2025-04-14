@@ -9,6 +9,11 @@
 ## **Etapa 3 SQL**
 - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
 
+<details>
+<summary>Index</summary>
+1. https://www.youtube.com/watch?v=H01NmrEFATI
+</details>
+
 ## **Etapa 4 Spring**
 <details>
 <summary>Click</summary>
