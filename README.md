@@ -12,6 +12,8 @@
 <details>
 <summary>Indexes</summary>
 1. https://www.youtube.com/watch?v=H01NmrEFATI
+2. https://www.youtube.com/watch?v=LpEwssOYRKA&t=1s
+3. https://www.youtube.com/watch?v=JCSv9RDP_lY&t=448s
 </details>
 
 <details>
