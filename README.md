@@ -1,26 +1,31 @@
-## **Etapa 1 Java Core**
+## **Step 1 Java Core**
 
 - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course)
 
-## **Etapa 2 Git**
+## **Step 2 Git**
 - [Git youtube](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
 
-## **Etapa 3 SQL**
+## **Step 3 SQL**
 - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
 
 <details>
-<summary>Index</summary>
+<summary>Indexes</summary>
 1. https://www.youtube.com/watch?v=H01NmrEFATI
 </details>
 
-## **Etapa 4 Spring**
+<details>
+<summary>Joins</summary>
+1. https://www.youtube.com/watch?v=H3LYwkePWfM&t=727s
+</details>
+
+## **Step 4 Spring**
 <details>
 <summary>Click</summary>
 Not implemented yet!
 </details>
 
-## **Etapa 5**
+## **Step 5**
 <details>
 <summary>Click</summary>
 Not implemented yet!
