@@ -1,6 +1,9 @@
 ## **Step 1 Java Core**
 
 - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course)
+- [JVM - JRE - JDK 1](https://www.youtube.com/watch?v=lojcuDzZXBA)
+- [JVM - JRE - JDK 2](https://www.youtube.com/watch?v=KctLuhwFEQ8&t=90s)
+- [JVM - JRE - JDK 3](https://www.youtube.com/watch?v=s7UgQ7_1KQY)
 
 ## **Step 2 Git**
 - [Git youtube](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
