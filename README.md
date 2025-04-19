@@ -14,19 +14,25 @@
 
 <details>
 <summary>Transactions</summary>
-1. https://www.youtube.com/watch?v=e9a4ESSHQ74
+  
+- [Transactions Tutorial 1](https://www.youtube.com/watch?v=e9a4ESSHQ74)
+
 </details>
 
 <details>
 <summary>Indexes</summary>
-1. https://www.youtube.com/watch?v=H01NmrEFATI
-2. https://www.youtube.com/watch?v=LpEwssOYRKA&t=1s
-3. https://www.youtube.com/watch?v=JCSv9RDP_lY&t=448s
+
+- [Index Tutorial 1](https://www.youtube.com/watch?v=H01NmrEFATI)
+- [Index Tutorial 2](https://www.youtube.com/watch?v=LpEwssOYRKA&t=1s)
+- [Index Tutorial 3](https://www.youtube.com/watch?v=JCSv9RDP_lY&t=448s)
+
 </details>
 
 <details>
 <summary>Joins</summary>
-1. https://www.youtube.com/watch?v=H3LYwkePWfM&t=727s
+  
+- [Joins Tutorial 1](https://www.youtube.com/watch?v=H3LYwkePWfM&t=727s)
+
 </details>
 
 ## **Step 4 Spring**
