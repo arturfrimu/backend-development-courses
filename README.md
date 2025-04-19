@@ -13,6 +13,11 @@
 - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
 
 <details>
+<summary>Transactions</summary>
+1. https://www.youtube.com/watch?v=e9a4ESSHQ74
+</details>
+
+<details>
 <summary>Indexes</summary>
 1. https://www.youtube.com/watch?v=H01NmrEFATI
 2. https://www.youtube.com/watch?v=LpEwssOYRKA&t=1s
