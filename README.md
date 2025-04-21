@@ -1,9 +1,15 @@
 ## **Step 1 Java Core**
 
 - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course)
+
+<details>
+<summary>JVM - JRE - JDK</summary>
+
 - [JVM - JRE - JDK 1](https://www.youtube.com/watch?v=lojcuDzZXBA)
 - [JVM - JRE - JDK 2](https://www.youtube.com/watch?v=KctLuhwFEQ8&t=90s)
 - [JVM - JRE - JDK 3](https://www.youtube.com/watch?v=s7UgQ7_1KQY)
+
+</details>
 
 ## **Step 2 Git**
 - [Git youtube](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
@@ -26,6 +32,7 @@
 - [Index Tutorial 1](https://www.youtube.com/watch?v=H01NmrEFATI)
 - [Index Tutorial 2](https://www.youtube.com/watch?v=LpEwssOYRKA&t=1s)
 - [Index Tutorial 3](https://www.youtube.com/watch?v=JCSv9RDP_lY&t=448s)
+- [Index Tutorial 4](https://www.youtube.com/watch?v=f2r7yqEH55U)
 
 </details>
 
