@@ -16,6 +16,7 @@
 <summary>Transactions</summary>
   
 - [Transactions Tutorial 1](https://www.youtube.com/watch?v=e9a4ESSHQ74)
+- [Transactions Tutorial 2](https://www.youtube.com/watch?v=SMv5_-uVwRo)
 
 </details>
 
