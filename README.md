@@ -35,6 +35,7 @@
 - [Index Tutorial 4](https://www.youtube.com/watch?v=f2r7yqEH55U)
 - [Index Tutorial 5](https://www.youtube.com/watch?v=mnEU2_cwE_s)
 - [Index Tutorial 6](https://www.youtube.com/watch?v=NI9wYuVIYcA)
+- [Index Tutorial 7](https://www.youtube.com/watch?v=K1a2Bk8NrYQ)
 
 
 </details>
