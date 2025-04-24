@@ -1,4 +1,4 @@
-## **Step 1 Java Core**
+## **Step 1 Java**
 
 - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course)
 
@@ -37,7 +37,6 @@
 - [Index Tutorial 6](https://www.youtube.com/watch?v=NI9wYuVIYcA)
 - [Index Tutorial 7](https://www.youtube.com/watch?v=K1a2Bk8NrYQ)
 
-
 </details>
 
 <details>
@@ -53,11 +52,29 @@
 Not implemented yet!
 </details>
 
-## **Step 5**
+## **Step 5 Network**
 <details>
-<summary>Click</summary>
-Not implemented yet!
+<summary>Security</summary>
+  
+- [API Authentication: JWT, OAuth2, and More](https://www.youtube.com/watch?v=xJA8tP74KD0)
+
 </details>
+
+<details>
+<summary>Rest</summary>
+  
+- [9 Must-Know REST API Design Principles for Developers](https://www.youtube.com/watch?v=pJ83mmqcvoQ&t=308s)
+
+</details>
+
+## **Step 6 General**
+<details>
+<summary>Time zone</summary>
+  
+- [The Problem with Time & Timezones - Computerphile](https://www.youtube.com/watch?v=-5wpm-gesOY)
+
+</details>
+
 
 ## **Follow these channels on youtube**
 - [Nerzon](https://www.youtube.com/@NerzonIT/videos)
