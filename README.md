@@ -52,6 +52,15 @@
 Not implemented yet!
 </details>
 
+## **Step 4.1 Hibernate**
+
+<details>
+<summary>Click</summary>
+  
+- [Hibernate Cache Mechanism - Easy Explanation](https://www.youtube.com/watch?v=C40VFnMUDBQ)
+
+</details>
+
 ## **Step 5 Network**
 <details>
 <summary>Security</summary>
