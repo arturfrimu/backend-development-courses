@@ -66,6 +66,7 @@ Not implemented yet!
 <summary>Security</summary>
   
 - [API Authentication: JWT, OAuth2, and More](https://www.youtube.com/watch?v=xJA8tP74KD0)
+- [HTTPS](https://www.youtube.com/watch?v=nsyLWDtWXk0)
 
 </details>
 
