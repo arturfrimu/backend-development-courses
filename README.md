@@ -18,11 +18,22 @@
 ## **Step 3 SQL**
 - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
 
+
+
+<details>
+<summary>Normal forms</summary>
+  
+- [Первая нормальная форма: три простых условия](https://www.youtube.com/watch?v=nsXV4PGMmrk)
+- [Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF](https://www.youtube.com/watch?v=GFQaEYEc8_8&t=93s)
+
+
+</details>
+
 <details>
 <summary>Transactions</summary>
   
 - [Transactions Tutorial 1](https://www.youtube.com/watch?v=e9a4ESSHQ74)
-- [Transactions Tutorial 2](https://www.youtube.com/watch?v=SMv5_-uVwRo)
+- [Вторая нормальная форма. Правила нормализации БД](https://www.youtube.com/watch?v=YTTJV2K5WOA)
 
 </details>
 
