@@ -97,6 +97,8 @@ Not implemented yet!
 
 </details>
 
+- [Kafka](https://youtu.be/hbseyn-CfXY?si=cZHc1czkDD_TSH-j)
+
 
 ## **Follow these channels on youtube**
 - [Nerzon](https://www.youtube.com/@NerzonIT/videos)
