@@ -97,6 +97,7 @@ Not implemented yet!
 
 </details>
 
+- [RabbitMQ](https://youtu.be/i-Eh-NCa0Tk?si=X_-f7xsuICpLYP8D)
 - [Kafka](https://youtu.be/hbseyn-CfXY?si=cZHc1czkDD_TSH-j)
 
 
