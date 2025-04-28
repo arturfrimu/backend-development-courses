@@ -1,0 +1,38 @@
+sequenceDiagram
+    participant User
+    participant ClientApp as Client
+    participant AuthServer as AuthorizationServer
+    participant UserInfo as UserInfoEndpoint
+    participant ResourceServer
+
+    User->>ClientApp: Click "Login"
+    ClientApp->>AuthServer: GET /authorize?response_type=code&scope=openid%20profile%20email&client_id=…&redirect_uri=…
+    AuthServer-->>User: Show login & consent form
+    User->>AuthServer: Submit credentials & consent
+    AuthServer-->>ClientApp: Redirect to redirect_uri?code=AUTH_CODE&state=…
+
+    ClientApp->>AuthServer: POST /token
+        grant_type=authorization_code
+        & code=AUTH_CODE
+        & redirect_uri=…
+        & client_id=…
+        & client_secret=…
+    AuthServer-->>ClientApp: { id_token, access_token, refresh_token, expires_in }
+
+    Note right of ClientApp: Validate ID Token (signature, issuer, audience, expiry)
+
+    ClientApp->>UserInfo: GET /userinfo
+        Authorization: Bearer access_token
+    UserInfo-->>ClientApp: { sub, name, email, … }
+
+    ClientApp->>ResourceServer: GET /api/resource
+        Authorization: Bearer access_token
+    ResourceServer-->>ClientApp: 200 OK { protected data }
+
+    alt access_token expired
+        ClientApp->>AuthServer: POST /token
+            grant_type=refresh_token
+            & refresh_token=REFRESH_TOKEN
+        AuthServer-->>ClientApp: { id_token, access_token, refresh_token, expires_in }
+        Note right of ClientApp: Validate new ID Token
+    end
