@@ -1,0 +1,49 @@
+sequenceDiagram
+    participant Client
+    participant ServiceProxy as Service Proxy
+    participant TxInterceptor as TransactionInterceptor
+    participant TxManager as PlatformTransactionManager
+    participant DataSource
+    participant Service as TargetService
+
+    Client->>ServiceProxy: call @Transactional method
+    ServiceProxy->>TxInterceptor: invoke(joinPoint)
+    TxInterceptor->>TxManager: getTransaction(txDefinition)
+    TxManager->>DataSource: obtain Connection
+    DataSource-->>TxManager: Connection (autoCommit=false)
+    TxManager-->>TxInterceptor: TransactionStatus
+    TxInterceptor->>Service: proceed() // business method executes
+    Service->>DataSource: execute SQL operations
+    alt business succeeds
+      TxInterceptor->>TxManager: commit(status)
+      TxManager->>DataSource: connection.commit()
+    else business throws exception
+      TxInterceptor->>TxManager: rollback(status)
+      TxManager->>DataSource: connection.rollback()
+    end
+    TxManager->>DataSource: release Connection
+    TxInterceptor-->>ServiceProxy: return result / rethrow exception
+    ServiceProxy-->>Client: return from method
+
+
+
+┌────────────────────────┐
+│ Client apelă metoda   │
+│ @Transactional         │
+└──────────┬─────────────┘
+           │
+           ▼
+┌────────────────────────┐
+│ Proxy AOP intercept    │
+└──────────┬─────────────┘
+           │
+           ▼
+┌────────────────────────┐
+│ TransactionInterceptor │
+│ - getTransaction()     │──┐
+│ - proceed()            │  │
+│ - commit()/rollback()  │◀─┘
+└────────────────────────┘
+           │
+           ▼
+     Metoda de business
