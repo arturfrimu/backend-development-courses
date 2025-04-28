@@ -17,3 +17,26 @@ FROM culori c
     VALUES ('Casual'),('Sport'),('Elegant')
 ) AS s(stil);
 
+
+| culoare | marime | stil |
+| :--- | :--- | :--- |
+| Rosu | S | Casual |
+| Rosu | M | Casual |
+| Rosu | S | Sport |
+| Rosu | M | Sport |
+| Rosu | S | Elegant |
+| Rosu | M | Elegant |
+| Verde | S | Casual |
+| Verde | M | Casual |
+| Verde | S | Sport |
+| Verde | M | Sport |
+| Verde | S | Elegant |
+| Verde | M | Elegant |
+| Albastru | S | Casual |
+| Albastru | M | Casual |
+| Albastru | S | Sport |
+| Albastru | M | Sport |
+| Albastru | S | Elegant |
+| Albastru | M | Elegant |
+
+
