@@ -78,6 +78,7 @@ Not implemented yet!
   
 - [API Authentication: JWT, OAuth2, and More](https://www.youtube.com/watch?v=xJA8tP74KD0)
 - [Основы OAuth 2.0 и OpenID Connect](https://www.youtube.com/watch?v=yNmN4k-HxWM)
+- [Секреты OAuth 2.0 и OIDC: Применение в приложениях](https://www.youtube.com/watch?v=zkbt_NDX5DQ)
 - [HTTPS](https://www.youtube.com/watch?v=nsyLWDtWXk0)
 
 </details>
