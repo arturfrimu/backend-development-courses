@@ -1,1 +1,36 @@
 
+sequenceDiagram
+    participant AppCtx as ApplicationContext
+    participant BPP as BeanPostProcessor
+    participant Bean as MyBean
+
+    %% Context startup
+    AppCtx->>AppCtx: refresh()
+    AppCtx->>AppCtx: loadBeanDefinitions()
+    AppCtx->>AppCtx: registerBeanPostProcessors()
+
+    %% Bean instantiation phase
+    AppCtx->>BPP: postProcessBeforeInstantiation(MyBean, "myBean")
+    alt BPP returns a proxy
+        BPP-->>AppCtx: proxy instance returned
+    else
+        AppCtx->>Bean: constructor()  
+        AppCtx->>Bean: populateProperties()  
+        BPP->>Bean: postProcessAfterInstantiation(MyBean, "myBean")
+    end
+
+    %% Initialization phase
+    BPP->>Bean: postProcessBeforeInitialization(MyBean, "myBean")
+    Bean->>Bean: @PostConstruct  
+    Bean->>Bean: afterPropertiesSet()  
+    Bean->>Bean: custom init-method()
+    BPP->>Bean: postProcessAfterInitialization(MyBean, "myBean")
+
+    Note over AppCtx,Bean: Bean is now ready for use
+
+    %% Context shutdown
+    alt on ApplicationContext.close()
+        AppCtx->>BPP: postProcessBeforeDestruction(MyBean, "myBean")
+        Bean->>Bean: @PreDestroy  
+        Bean->>Bean: custom destroy-method()
+    end
