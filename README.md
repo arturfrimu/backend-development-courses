@@ -35,13 +35,20 @@
 - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
 
 
-
 <details>
 <summary>Sharding</summary>
   
 - [What is Database Sharding?](https://www.youtube.com/watch?v=XP98YCr-iXQ)
 
 </details>
+
+<details>
+<summary>Partitioning</summary>
+  
+- [PostgreSQL Partitioning Tutorial](https://www.youtube.com/watch?v=oJj-pltxBUM)
+
+</details>
+
 
 <details>
 <summary>Normal forms</summary>
