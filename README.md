@@ -11,6 +11,20 @@
 
 </details>
 
+<details>
+<summary>Data Structures</summary>
+  
+- [Ключевые структуры данных](https://www.youtube.com/watch?v=rXEpOUiNjZM)
+
+</details>
+
+<details>
+<summary>Multithreading</summary>
+  
+- [Многопоточность глазами разработчика](https://www.youtube.com/watch?v=m-7EljqdxpA&t=7s)
+
+</details>
+
 ## **Git**
 - [Git youtube](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
@@ -105,11 +119,21 @@ Not implemented yet!
 
 </details>
 
+Создание веб-сервиса с использованием Spring Boot 3 и AWS SQS
+
 ## **General**
 <details>
 <summary>Time zone</summary>
   
 - [The Problem with Time & Timezones - Computerphile](https://www.youtube.com/watch?v=-5wpm-gesOY)
+
+</details>
+
+## **AWS**
+<details>
+<summary>SQS</summary>
+  
+- [Создание веб-сервиса с использованием Spring Boot 3 и AWS SQS](https://www.youtube.com/watch?v=xqbqvVrV0lI)
 
 </details>
 
