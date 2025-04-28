@@ -1,0 +1,19 @@
+sequenceDiagram
+    participant Client
+    participant AuthServer
+    participant ResourceServer
+
+    Client->>AuthServer: POST /login {user, pass}
+    AuthServer-->>Client: {accessToken, refreshToken}
+
+    Note right of Client: Store accessToken in memory (e.g. Redux)<br/>Store refreshToken in secure HTTP-only cookie
+
+    Client->>ResourceServer: GET /api/data<br/>Authorization: Bearer <accessToken>
+    ResourceServer-->>Client: 200 OK {…}
+
+    alt accessToken expired
+      Client->>AuthServer: POST /refresh {refreshToken}
+      AuthServer-->>Client: {newAccessToken, newRefreshToken?}
+      Client->>ResourceServer: GET /api/data<br/>Authorization: Bearer <newAccessToken>
+      ResourceServer-->>Client: 200 OK {…}
+    end
