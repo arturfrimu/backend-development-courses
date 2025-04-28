@@ -22,6 +22,7 @@
 <summary>Multithreading</summary>
   
 - [Многопоточность глазами разработчика](https://www.youtube.com/watch?v=m-7EljqdxpA&t=7s)
+- [Виртуальные потоки в Java](https://www.youtube.com/watch?v=IhTfHw_tXF8)
 
 </details>
 
