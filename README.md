@@ -94,6 +94,7 @@ Not implemented yet!
 - [Основы OAuth 2.0 и OpenID Connect](https://www.youtube.com/watch?v=yNmN4k-HxWM)
 - [Секреты OAuth 2.0 и OIDC: Применение в приложениях](https://www.youtube.com/watch?v=zkbt_NDX5DQ)
 - [HTTPS](https://www.youtube.com/watch?v=nsyLWDtWXk0)
+- [Как работает HTTPS?](https://www.youtube.com/watch?v=B3j4SS5P8tM)
 
 </details>
 
