@@ -37,6 +37,13 @@
 
 
 <details>
+<summary>Sharding</summary>
+  
+- [What is Database Sharding?](https://www.youtube.com/watch?v=XP98YCr-iXQ)
+
+</details>
+
+<details>
 <summary>Normal forms</summary>
   
 - [Первая нормальная форма: три простых условия](https://www.youtube.com/watch?v=nsXV4PGMmrk)
