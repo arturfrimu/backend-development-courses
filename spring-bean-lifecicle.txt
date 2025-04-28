@@ -34,3 +34,25 @@ sequenceDiagram
         Bean->>Bean: @PreDestroy  
         Bean->>Bean: custom destroy-method()
     end
+
+
+
+refresh()
+  ├─ loadBeanDefinitions()
+  ├─ registerBeanPostProcessors()
+  └─ instantiate “myBean”
+      ├─ postProcessBeforeInstantiation
+      ├─ constructor()
+      ├─ populateProperties()
+      ├─ postProcessAfterInstantiation
+      ├─ postProcessBeforeInitialization
+      ├─ @PostConstruct
+      ├─ afterPropertiesSet()
+      ├─ custom init-method
+      └─ postProcessAfterInitialization
+  → bean ready
+close()
+  ├─ postProcessBeforeDestruction
+  ├─ @PreDestroy
+  └─ custom destroy-method
+
