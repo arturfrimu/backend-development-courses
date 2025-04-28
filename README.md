@@ -70,6 +70,7 @@
 <summary>Joins</summary>
   
 - [Все JOIN в SQL Для Начинающих За 15 Минут](https://www.youtube.com/watch?v=H3LYwkePWfM&t=727s)
+- [6 SQL Joins you MUST know! (Animated + Practice)](https://www.youtube.com/watch?v=Yh4CrPHVBdE&t=489s)
 
 </details>
 
