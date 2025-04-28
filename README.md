@@ -24,6 +24,7 @@
 <summary>Normal forms</summary>
   
 - [Первая нормальная форма: три простых условия](https://www.youtube.com/watch?v=nsXV4PGMmrk)
+- [Вторая нормальная форма. Правила нормализации БД](https://www.youtube.com/watch?v=YTTJV2K5WOA)
 - [Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF](https://www.youtube.com/watch?v=GFQaEYEc8_8&t=93s)
 
 
@@ -32,28 +33,27 @@
 <details>
 <summary>Transactions</summary>
   
-- [Transactions Tutorial 1](https://www.youtube.com/watch?v=e9a4ESSHQ74)
-- [Вторая нормальная форма. Правила нормализации БД](https://www.youtube.com/watch?v=YTTJV2K5WOA)
+- [ТРАНЗАКЦИИ И БЛОКИРОВКИ ПРОСТЫМ ЯЗЫКОМ](https://www.youtube.com/watch?v=e9a4ESSHQ74)
 
 </details>
 
 <details>
 <summary>Indexes</summary>
 
-- [Index Tutorial 1](https://www.youtube.com/watch?v=H01NmrEFATI)
-- [Index Tutorial 2](https://www.youtube.com/watch?v=LpEwssOYRKA&t=1s)
-- [Index Tutorial 3](https://www.youtube.com/watch?v=JCSv9RDP_lY&t=448s)
-- [Index Tutorial 4](https://www.youtube.com/watch?v=f2r7yqEH55U)
-- [Index Tutorial 5](https://www.youtube.com/watch?v=mnEU2_cwE_s)
-- [Index Tutorial 6](https://www.youtube.com/watch?v=NI9wYuVIYcA)
-- [Index Tutorial 7](https://www.youtube.com/watch?v=K1a2Bk8NrYQ)
+- [Все о ИНДЕКСАХ в SQL БД | BTREE HASH GIN](https://www.youtube.com/watch?v=H01NmrEFATI)
+- [Что такое SQL ИНДЕКСЫ за 10 минут: Объяснение с примерами](https://www.youtube.com/watch?v=LpEwssOYRKA&t=1s)
+- [Подготовка к собесу - Оптимизация запросов](https://www.youtube.com/watch?v=JCSv9RDP_lY&t=448s)
+- [Индексы SQL](https://www.youtube.com/watch?v=f2r7yqEH55U)
+- [Владимир Ситников — B-tree индексы в базах данных на примере PostgreSQL](https://www.youtube.com/watch?v=mnEU2_cwE_s)
+- [B-Tree Indexes](https://www.youtube.com/watch?v=NI9wYuVIYcA)
+- [Understanding B-Trees: The Data Structure Behind Modern Databases](https://www.youtube.com/watch?v=K1a2Bk8NrYQ)
 
 </details>
 
 <details>
 <summary>Joins</summary>
   
-- [Joins Tutorial 1](https://www.youtube.com/watch?v=H3LYwkePWfM&t=727s)
+- [Все JOIN в SQL Для Начинающих За 15 Минут](https://www.youtube.com/watch?v=H3LYwkePWfM&t=727s)
 
 </details>
 
