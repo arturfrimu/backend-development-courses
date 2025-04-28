@@ -1,0 +1,27 @@
+sequenceDiagram
+    participant User
+    participant ClientApp as Client
+    participant AuthServer as AuthorizationServer
+    participant ResourceServer
+
+    User->>ClientApp: Click “Login”
+    ClientApp->>AuthServer: GET /authorize?response_type=code&client_id=…&redirect_uri=…
+    AuthServer-->>User: Show login & consent form
+    User->>AuthServer: Submit credentials & consent
+    AuthServer-->>ClientApp: Redirect to redirect_uri?code=AUTH_CODE
+    ClientApp->>AuthServer: POST /token  
+        grant_type=authorization_code  
+        & code=AUTH_CODE  
+        & client_id=…  
+        & client_secret=…
+    AuthServer-->>ClientApp: { access_token, refresh_token, expires_in }
+    ClientApp->>ResourceServer: GET /api/resource  
+        Authorization: Bearer access_token
+    ResourceServer-->>ClientApp: 200 OK { protected data }
+
+    alt access_token expired
+        ClientApp->>AuthServer: POST /token  
+            grant_type=refresh_token  
+            & refresh_token=REFRESH_TOKEN
+        AuthServer-->>ClientApp: { access_token, refresh_token, expires_in }
+    end
