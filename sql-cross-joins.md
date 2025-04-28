@@ -1,3 +1,4 @@
+```sql
 -- tabele de exemplu
 CREATE TABLE culori  (culoare VARCHAR(10));
 INSERT INTO culori  VALUES ('Rosu'),('Verde'),('Albastru');
@@ -16,7 +17,7 @@ FROM culori c
          CROSS JOIN (
     VALUES ('Casual'),('Sport'),('Elegant')
 ) AS s(stil);
-
+```
 
 | culoare | marime | stil |
 | :--- | :--- | :--- |
