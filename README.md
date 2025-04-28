@@ -1,4 +1,4 @@
-## **Step 1 Java**
+## **Java**
 
 - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course)
 
@@ -11,11 +11,11 @@
 
 </details>
 
-## **Step 2 Git**
+## **Git**
 - [Git youtube](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
 
-## **Step 3 SQL**
+## **SQL**
 - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
 
 
@@ -57,13 +57,13 @@
 
 </details>
 
-## **Step 4 Spring**
+## **Spring**
 <details>
 <summary>Click</summary>
 Not implemented yet!
 </details>
 
-## **Step 4.1 Hibernate**
+## **Hibernate**
 
 <details>
 <summary>Click</summary>
@@ -72,7 +72,7 @@ Not implemented yet!
 
 </details>
 
-## **Step 5 Network**
+## **Network**
 <details>
 <summary>Security</summary>
   
@@ -90,16 +90,28 @@ Not implemented yet!
 
 </details>
 
-## **Step 6 General**
+## **Message Brokers**
+<details>
+<summary>Kafka</summary>
+  
+- [Лучший Гайд по Kafka для Начинающих За 1 Час](https://youtu.be/hbseyn-CfXY?si=cZHc1czkDD_TSH-j)
+
+</details>
+
+<details>
+<summary>RabbitMQ</summary>
+  
+- [Основы RabbitMQ: что это и как это работает](https://youtu.be/i-Eh-NCa0Tk?si=X_-f7xsuICpLYP8D)
+
+</details>
+
+## **General**
 <details>
 <summary>Time zone</summary>
   
 - [The Problem with Time & Timezones - Computerphile](https://www.youtube.com/watch?v=-5wpm-gesOY)
 
 </details>
-
-- [RabbitMQ](https://youtu.be/i-Eh-NCa0Tk?si=X_-f7xsuICpLYP8D)
-- [Kafka](https://youtu.be/hbseyn-CfXY?si=cZHc1czkDD_TSH-j)
 
 
 ## **Follow these channels on youtube**
