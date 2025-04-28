@@ -1,0 +1,14 @@
+sequenceDiagram
+    participant Client
+    participant API as ResourceServer
+    participant KeyStore as APIKeyStore
+
+    Client->>API: GET /v1/resource  
+        headers: X-API-Key: YOUR_API_KEY
+    API->>KeyStore: Validate YOUR_API_KEY
+    KeyStore-->>API: valid / invalid
+    alt valid
+        API-->>Client: 200 OK { protected data }
+    else invalid
+        API-->>Client: 401 Unauthorized { error: "invalid_api_key" }
+    end
