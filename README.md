@@ -1,6 +1,7 @@
 ## **Java**
 
 - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course)
+- [Java Full Course for free ☕ (2025)](https://www.youtube.com/watch?v=xTtL8E4LzTQ)
 
 <details>
 <summary>JVM - JRE - JDK</summary>
