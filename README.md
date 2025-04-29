@@ -77,6 +77,7 @@
 - [Владимир Ситников — B-tree индексы в базах данных на примере PostgreSQL](https://www.youtube.com/watch?v=mnEU2_cwE_s)
 - [B-Tree Indexes](https://www.youtube.com/watch?v=NI9wYuVIYcA)
 - [Understanding B-Trees: The Data Structure Behind Modern Databases](https://www.youtube.com/watch?v=K1a2Bk8NrYQ)
+- [Владимир Ситников — B-Tree индексы в базах данных на примере Spring Boot-приложений, PostgreSQL, JPA](https://www.youtube.com/watch?v=y-Wtyvme4gE)
 
 </details>
 
