@@ -89,6 +89,8 @@
 
 </details>
 
+- [Оптимизация SQL запроса](https://www.youtube.com/watch?v=PvfGmk966TQ)
+
 ## **Spring**
 <details>
 <summary>Click</summary>
