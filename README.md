@@ -1,3 +1,9 @@
+# Learn
+
+- [How to Learn Anything Faster Than Everyone](https://www.youtube.com/watch?v=5ryCb5jvx4Q&t=167s)
+- [how to learn ANYTHING faster than anyone](https://www.youtube.com/watch?v=hCSHuvDejGA)
+- [how to become f*cking smart](https://www.youtube.com/watch?v=2H9AYTKFd6Q)
+
 ## **Java**
 
 - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course)
