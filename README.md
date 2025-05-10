@@ -6,6 +6,7 @@
 - [How to Learn ANYTHING Faster & Remember Longer](https://www.youtube.com/watch?v=lnMMyHa9Y-Q)
 - [How to Learn ANYTHING Faster Than Everyone](https://www.youtube.com/watch?v=qOjSJVaBV94&t=4s)
 - [How To 10X Your Memory & Learning [New speech]](https://www.youtube.com/watch?v=HIdblMmSyl8)
+- [How To Learn Any Skill So Fast It Feels Illegal](https://www.youtube.com/watch?v=bSDprg24pEA)
 
 ## **Java**
 
