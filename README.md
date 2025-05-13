@@ -8,6 +8,7 @@
 - [How To 10X Your Memory & Learning [New speech]](https://www.youtube.com/watch?v=HIdblMmSyl8)
 - [How To Learn Any Skill So Fast It Feels Illegal](https://www.youtube.com/watch?v=bSDprg24pEA)
 - [How To ABSORB TEXTBOOKS Like A Sponge](https://www.youtube.com/watch?v=Xu7Yqxlc3ec)
+- [Don't Waste Your Time Learning English Like This](https://www.youtube.com/watch?v=t26iooY3PAo)
 
 ## **Java**
 
