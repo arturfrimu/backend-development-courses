@@ -9,7 +9,7 @@
 - [How To Learn Any Skill So Fast It Feels Illegal](https://www.youtube.com/watch?v=bSDprg24pEA)
 - [How To ABSORB TEXTBOOKS Like A Sponge](https://www.youtube.com/watch?v=Xu7Yqxlc3ec)
 - [Don't Waste Your Time Learning English Like This](https://www.youtube.com/watch?v=t26iooY3PAo) 
-
+- [Lear faster](https://youtu.be/ruNMS07ru8c?si=S1evX7ug5LpXA072)
 ## **Java**
 
 - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course)
