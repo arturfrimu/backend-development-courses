@@ -192,8 +192,6 @@ Not implemented yet!
 
 </details>
 
-Создание веб-сервиса с использованием Spring Boot 3 и AWS SQS
-
 ## **General**
 <details>
 <summary>Time zone</summary>
