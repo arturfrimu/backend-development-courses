@@ -118,6 +118,16 @@ Not implemented yet!
 
 </details>
 
+## **Testing**
+
+<details>
+<summary>Click</summary>
+  
+- [Тестирование ПО глазами разработчика](https://www.youtube.com/watch?v=9GOs-QQcVRA)
+
+</details>
+
+
 ## **Network**
 <details>
 <summary>Security</summary>
@@ -135,6 +145,35 @@ Not implemented yet!
 <summary>Rest</summary>
   
 - [9 Must-Know REST API Design Principles for Developers](https://www.youtube.com/watch?v=pJ83mmqcvoQ&t=308s)
+
+</details>
+
+## Docker и Kubernetes
+
+<details>
+<summary>Rest</summary>
+  
+- [Docker и Kubernetes глазами разработчика](https://www.youtube.com/watch?v=jw9M137lfhI&t=6053s)
+
+</details>
+
+
+## Redis
+
+<details>
+<summary>Rest</summary>
+   
+- [Основы Redis глазами разработчика](https://www.youtube.com/watch?v=Tw_-3sHDeyA&t=966s)
+
+</details>
+
+
+## Observability
+
+<details>
+<summary>Rest</summary>
+   
+- [Основы observability распределенных систем (Prometheus, Grafana, Alloy, Loki, Tempo)](https://www.youtube.com/watch?v=PqU1FL-OfPo)
 
 </details>
 
