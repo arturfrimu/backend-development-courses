@@ -1,3 +1,9 @@
+Youtube: Java_Beginner  
+Title: Миграции с Flyway и LiquiBase. Основы управления БД  
+Link: https://www.youtube.com/watch?v=GKTIxws7EkE  
+
+---
+
 Pe baza surselor furnizate, iată teoria despre **Flyway** și **Liquibase**, precum și conceptul general de migrare a bazelor de date, tradusă și sintetizată în limba română:
 
 ### Conceptul de Migrare a Bazei de Date
